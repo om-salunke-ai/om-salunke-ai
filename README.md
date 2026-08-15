@@ -1,33 +1,20 @@
-# Hey, I'm Om 👋
+# Om Salunke
 
-I'm a first-year CS student at Vishwakarma University, Pune, working 
-toward becoming an AI Engineer.
+Computer Science student focused on building practical Python applications and developing a foundation in data structures, machine learning, and AI engineering.
 
-Currently learning Python, DSA, and building small projects to get 
-better at writing real code — not just theory.
+## Technical interests
 
----
+- Python and SQL
+- Data analysis and visualisation
+- Streamlit application development
+- Data structures and algorithms
+- Machine learning fundamentals
 
-## What I'm working with
+## Selected projects
 
-- **Languages:** Python, SQL
-- **Tools:** Streamlit, Pandas, MySQL
-- **Currently learning:** Data Structures & Algorithms, Machine Learning basics
+- [Restaurant Table Booking System](https://github.com/om-salunke-ai/restaurant-table-booking) — a Streamlit application for creating and managing local restaurant reservations.
+- [Mobile App Preferences Analysis](https://github.com/om-salunke-ai/mobile-app-analysis) — an interactive dashboard analysing a student survey dataset.
 
----
+## Currently learning
 
-## Projects
-
-- 🍽️ **[Restaurant Table Booking System](https://github.com/om-salunke-ai/restaurant-table-booking)** — 
-  A Streamlit web app for managing restaurant reservations. Built as my first-year CS project.
-
----
-
-## Goal
-
-AI Engineer — specifically interested in LLMs and building 
-intelligent applications. Long way to go but making progress every day.
-
----
-
-*Pune, Maharashtra 🇮🇳*
+I am strengthening my Python fundamentals, practising data structures and algorithms, and exploring the foundations of machine learning and LLM-based applications.
