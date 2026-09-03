@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/AI_Engineering-0F172A?style=flat-square&logo=openai&logoColor=white" alt="AI Engineering" />
+<a href="https://www.antigravity.google/product/antigravity-cli"><img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" /></a>
 
 </div>
 
@@ -32,6 +33,8 @@ I build practical Python applications and data projects while developing skills 
 
 <img src="https://img.shields.io/badge/AI--Powered_IDEs-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="AI-powered IDEs" />
 <img src="https://img.shields.io/badge/AI_Task_Automation-6D28D9?style=for-the-badge&logo=n8n&logoColor=white" alt="AI task automation" />
+<a href="https://www.antigravity.google/product/antigravity-cli"><img src="https://img.shields.io/badge/Google_Antigravity_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity CLI" /></a>
+<a href="https://www.antigravity.google/product/antigravity-ide"><img src="https://img.shields.io/badge/Google_Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" /></a>
 
 </div>
 
@@ -44,6 +47,14 @@ I build practical Python applications and data projects while developing skills 
 - **Data handling with Python and pandas:** cleaning, analysing, visualising, and presenting data clearly.
 - **AI-powered IDEs:** using modern development environments to improve coding speed, quality, and learning.
 - **Task automation:** identifying repetitive work and designing AI-assisted automations that save time.
+
+## Google Antigravity experience
+
+I have hands-on experience with **Google Antigravity CLI**, **Antigravity 2.0**, and the **Antigravity IDE**. I use these agent-first tools to turn a clear requirement into a practical plan, guide multi-step implementation work, and review the results before moving forward.
+
+My workflow includes working with natural-language task instructions, terminal-based agent sessions, project context, and agent-supported development inside the IDE. I am comfortable using Antigravity to explore an unfamiliar codebase, shape an implementation approach, build features, iterate on UI or logic, and keep the work grounded in the project’s architecture.
+
+I treat autonomous agents as capable development partners—not a substitute for judgment. That means setting clear boundaries, reviewing changes, checking outputs, and using the right level of oversight for the task.
 
 ## Current focus
 
